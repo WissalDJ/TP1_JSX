@@ -1,0 +1,32 @@
+.general-info {
+    margin: 20px;
+    background-color: #f9f9f9;
+    width: 800px;
+    border-radius: 30px;
+  }
+  
+  .general-info h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-left: 12px;
+  }
+  
+  .general-info table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .general-info th, .general-info td {
+    text-align: left;
+    padding: 8px 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .general-info th {
+    width: 50%;
+    font-weight: bold;
+    background-color: #f9f9f9;
+  }
+  
